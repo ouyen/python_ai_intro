@@ -1,6 +1,6 @@
 # Python程序设计与数据科学导论
 
-## 1 python基础
+## 1 [python基础](1.html)
 
 ## 2 class初步
 
